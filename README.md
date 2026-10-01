@@ -49,4 +49,4 @@ Trained on an RTX 4060 Ti (8GB) with LoRA (r=8, alpha=16) in bf16.
 
 Live inference was recorded as [output/run_record.mp4](output/run_record.mp4)
 
-_Note: Even if the metrics are good, I've trying using different inputs to src/run_model.py, and the results are not good at all. So probably BERT like models are not enough to achieve Jev's inference mechanisms._
+_Note: Even if the metrics are good, I've tried using different inputs to src/run_model.py, and the results are not good at all. Probably BERT like models are not enough to achieve Jev's inference mechanisms._
